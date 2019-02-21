@@ -1,0 +1,19 @@
+Menu:
+
+1. Subject Info ( list of subject: name, id, teacher, lessons' time, how many students have the subject(?) )
+2. Student Info ( list of student's: name, id,  )
+3. Add Student
+4. Add Subject
+5. update
+
+
+getStudentById(list students, string id)
+    return student
+
+
+students ->
+
+id       ->
+
+
+students.add(getstudentsbyid(, )
